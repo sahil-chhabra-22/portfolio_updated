@@ -1,0 +1,47 @@
+sahil chhabra
+B.Tech UG | VLSI Design | Passionate About AI and Automation | Mixed Signal Designing | Verilog | Cadence | Student at Vivekananda Institute of Professional Studies
+Delhi, India
+sahilchhabra2712@gmail.com
+www.linkedin.com/in/sahil-chhabra-6ba9aa2b8
+
+Summary
+Passionate about Technology | Lifelong Learner | Problem Solver
+I am an enthusiastic and dedicated Electronic Engineering Student - VLSI Engineer with a strong foundation in digital design, Verilog. I thrive on learning new technologies and applying them to solve real-world problems.
+With hands-on experience in Cadence simulations , Verilog codes. I enjoy turning concepts into functional solutions and continuously enhancing my technical expertise.
+I am particularly interested in VLSI design, embedded systems, hardware design, innovation in semiconductor technologies and actively seek opportunities to contribute, collaborate, and grow in challenging environments.
+I believe in lifelong learning, creative problem solving, and building impactful solutions that bridge theory with practical applications.
+Always open to networking, collaborations, and exciting opportunities in technology and engineering.
+
+Education
+Vivekananda Institute of Professional Studies
+Bachelor of Technology - BTech in Electronics Engineering specialization in VLSI (Very Large Scale Integration)
+2024-28
+
+Experience
+Chip Crafters - The VLSI Club of VIPS-TC
+Technical Head Cadence
+August 2025 - Present (8 months)
+
+Top Skills
+Verilog
+Cadence
+MATLAB
+Latex
+Python
+C
+
+Projects
+Major Project
+- Design of 8-Bit ALU focusing on Low-Power and Low-Temperature conditions in Cadence Virtuoso at 180 nm Technology.
+
+Minor Projects
+- Design of Adiabatic AND & NAND gates using Transmission Gates in Cadence Virtuoso at 180nm Technology.
+- Design and Stability Analysis of a 6T-SRAM Cell using Butterfly Curve (Static Noise Margin) in Cadence Virtuoso.
+
+Certifications
+Cadence Powered Circuit Design
+Winter School of Electronics - 2025
+Artificial Intelligence Fundamentals
+Introduction to Cybersecurity
+Introduction to Modern AI
+SQL and Relational Databases 101

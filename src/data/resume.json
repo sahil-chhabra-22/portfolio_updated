@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Sahil Chhabra",
+    "title": "Passionate about Circuits | Cadence Virtuoso | Mixed Signal Designing",
+    "summary": "I am a B.Tech undergraduate with a deep focus on VLSI Design, driven by a passion for bridging the gap between hardware intelligence and cutting-edge automation. Experienced in Mixed Signal Design and proficient with industry-standard tools like Cadence Virtuoso and Verilog, I have built a strong foundation in crafting circuits that operate at the intersection of analog precision and digital logic. I am fascinated by the evolving role of AI in chip design and verification, constantly exploring how intelligent systems can accelerate and elevate the future of semiconductor engineering.",
+    "location": "Delhi, India",
+    "email": "sahilchhabra2712@gmail.com",
+    "phone": "",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sahil-chhabra-6ba9aa2b8"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Chip Crafters - The VLSI Club of VIPS-TC",
+      "role": "Technical Head Cadence",
+      "dates": "August 2025 - Present",
+      "location": "",
+      "bullets": []
+    }
+  ],
+  "achievements": [],
+  "projects": [
+    {
+      "category": "Major Project",
+      "items": [
+        "Design of 8-Bit ALU focusing on Low-Power and Low-Temperature conditions in Cadence Virtuoso at 180 nm Technology."
+      ]
+    },
+    {
+      "category": "Minor Projects",
+      "items": [
+        "Design of Adiabatic AND & NAND gates using Transmission Gates in Cadence Virtuoso at 180nm Technology.",
+        "Design and Stability Analysis of a 6T-SRAM Cell using Butterfly Curve (Static Noise Margin) in Cadence Virtuoso."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Top Skills",
+      "items": [
+        "Verilog",
+        "Cadence",
+        "MATLAB",
+        "Latex",
+        "Python",
+        "C"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vivekananda Institute of Professional Studies",
+      "degree": "Bachelor of Technology - BTech in Electronics Engineering specialization in VLSI (Very Large Scale Integration)",
+      "dates": "2024-28",
+      "location": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Cadence Powered Circuit Design",
+      "image": "/cadence-1.jpeg"
+    },
+    {
+      "name": "Winter School of Electronics - 2025",
+      "image": "/winter school-1.jpeg"
+    },
+    {
+      "name": "Artificial Intelligence Fundamentals",
+      "image": "/py.jpeg"
+    },
+    {
+      "name": "Introduction to Cybersecurity",
+      "image": "/cs.jpeg"
+    },
+    {
+      "name": "Introduction to Modern AI",
+      "image": "/moder ai.jpeg"
+    },
+    {
+      "name": "SQL and Relational Databases 101",
+      "image": "/sql.jpeg"
+    }
+  ],
+  "awards": [],
+  "extra": []
+}
